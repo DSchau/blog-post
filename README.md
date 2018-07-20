@@ -8,6 +8,8 @@ A CLI to make creating your next, great Object Partners blog post as easy as pie
 npm install -g @objectpartners/blog-post
 ```
 
+OR use `npx` with `npx @objectpartners/blog-post`
+
 ## Usage
 
 1. `cd` to the OPi website repo
